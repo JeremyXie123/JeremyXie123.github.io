@@ -35,26 +35,26 @@ subheader: Support and documentation for Odin
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: TheTeaGuns
+twitter_username: InnoVision
 facebook_page:
-github_username: TeaGuns
-email: m@credd.in
+github_username: InnoVision
+email: InnoVisionProject@gmail.com
 linkedin_page:
 instagram_username: 
 
 
 # Navivation
 nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one_link: https://jeremyxie123.github.io/
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two_link: https://twitter.com/InnoVisionProject
 
 nav_item_three: #
 nav_item_three_link: #
 
 nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button_link: https://jeremyxie123.github.io/
 
 # More Help
 help_one_title: Odin Bugs
