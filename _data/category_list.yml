@@ -1,12 +1,12 @@
 #This file defines all the categories you 
 
 
-getting-started:
-  name: Getting Started
-  description: Welcome to Odin, time to get started
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+for-students:
+  name: for students
+  description: Resources for students
+for-teachers:
+  name: for teachers
+  description: Resources for Teachers
+blog:
+  name: blog
+  description: See what we're up to!
