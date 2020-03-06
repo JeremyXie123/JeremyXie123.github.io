@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Creating a New Article"
+title: "About Workshops"
 date: 2020-03-06 08:44:38 -0400
-category: For-Students
+category: for-students
 short-description: Learn About Workshops
 ---
 
