@@ -9,6 +9,6 @@ blog:
   name: blog
   description: See what we're up to!
 upcoming-events:
-  name: Upcoming Events
+  name: upcoming-events
   description: Come join us!
 
