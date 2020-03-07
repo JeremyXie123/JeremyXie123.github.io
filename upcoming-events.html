@@ -1,0 +1,9 @@
+---
+layout: category
+category: upcoming-events
+title: Upcoming Events
+---
+
+{% for post in site.categories.upcoming-events %}
+  {% include article-card.html %}
+{% endfor %}

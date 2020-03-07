@@ -1,6 +1,4 @@
 #This file defines all the categories you 
-
-
 for-students:
   name: for-students
   description: Resources for students
@@ -10,3 +8,7 @@ for-teachers:
 blog:
   name: blog
   description: See what we're up to!
+upcoming-events:
+  name: Upcoming Events
+  description: Come join us!
+
