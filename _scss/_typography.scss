@@ -180,6 +180,18 @@ dl {
   }
 }
 
+// text color and background color 
+// when highlighting using cursor
+::-moz-selection {
+    color: #001127;
+    background: #00ebc7;
+}
+
+::selection {
+    color: #001127;
+    background: #00ebc7;
+}
+
 .muli {
   font-family: "Muli", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto;
 }
