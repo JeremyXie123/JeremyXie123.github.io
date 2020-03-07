@@ -37,10 +37,8 @@ layout: default
                     <img  src="../assets/{{ post_author.image }}" alt="...">
                   </figure>
                   <div class="ml-2">
-                    <p class="text-dark text-small mb-0">Written by <span class="text-primary">{{ post_author.name }}</span></p>
-                    <p class="m-0 text-small">Last updated:</p>
-                    <p class="text-dark text-small text-italic mb-0">{{ page.date | date: '%B %d, %Y'  }}</p>
-                  
+                    <p class="text-dark text-small mb-0">Written by: <span class="text-primary">{{ post_author.name }}</span></p>
+                    <p class="text-dark text-small text-italic mb-0">Created On: {{ page.date | date: '%B %d, %Y'  }} </p> 
                   </div>
                 </div>
                 {% else %}
