@@ -1,7 +1,7 @@
 #This file defines all the categories you 
 for-students:
   name: for-students
-  description: Resources for students
+  description: Resources for Students
 for-teachers:
   name: for-teachers
   description: Resources for Teachers
