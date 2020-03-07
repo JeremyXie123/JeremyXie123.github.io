@@ -3,7 +3,7 @@ layout: post
 title: "Setting Up Workshops"
 date: 2020-03-06 08:44:38 -0400
 category: for-teachers
-author: mac
+author: main
 short-description: See the steps to host a workshop at your school
 ---
 
